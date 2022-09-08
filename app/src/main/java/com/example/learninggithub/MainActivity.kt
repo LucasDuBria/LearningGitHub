@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         // super important comment
         val x = 10
+        val word = "cromulent"
     }
 }
